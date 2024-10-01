@@ -5,6 +5,10 @@ VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PR1", "PR1\PR1.csproj", "{6FA7C43B-8CE6-479C-BBE6-1BE32946EB51}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PR5_DLL", "PR5_DLL\PR5_DLL.csproj", "{F2136A37-362D-45D8-AAD1-A23345F62D2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PR5_FORM", "PR5_FORM\PR5_FORM.csproj", "{4E0B407E-8547-465C-91CC-B40B997C5E11}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{6FA7C43B-8CE6-479C-BBE6-1BE32946EB51}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6FA7C43B-8CE6-479C-BBE6-1BE32946EB51}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6FA7C43B-8CE6-479C-BBE6-1BE32946EB51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2136A37-362D-45D8-AAD1-A23345F62D2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2136A37-362D-45D8-AAD1-A23345F62D2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2136A37-362D-45D8-AAD1-A23345F62D2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2136A37-362D-45D8-AAD1-A23345F62D2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E0B407E-8547-465C-91CC-B40B997C5E11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E0B407E-8547-465C-91CC-B40B997C5E11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E0B407E-8547-465C-91CC-B40B997C5E11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E0B407E-8547-465C-91CC-B40B997C5E11}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
