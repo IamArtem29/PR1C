@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PR5_DLL", "PR5_DLL\PR5_DLL.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PR5_FORM", "PR5_FORM\PR5_FORM.csproj", "{4E0B407E-8547-465C-91CC-B40B997C5E11}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PR5_CmToInch", "PR5_CmToInch\PR5_CmToInch.csproj", "{F1D9CE4A-13E4-49D0-AE09-3A6557FD4782}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{4E0B407E-8547-465C-91CC-B40B997C5E11}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4E0B407E-8547-465C-91CC-B40B997C5E11}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4E0B407E-8547-465C-91CC-B40B997C5E11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1D9CE4A-13E4-49D0-AE09-3A6557FD4782}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1D9CE4A-13E4-49D0-AE09-3A6557FD4782}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1D9CE4A-13E4-49D0-AE09-3A6557FD4782}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1D9CE4A-13E4-49D0-AE09-3A6557FD4782}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

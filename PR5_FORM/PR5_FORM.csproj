@@ -9,6 +9,9 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Reference Include="PR5_CmToInch">
+      <HintPath>..\PR5_CmToInch\bin\Debug\net6.0\PR5_CmToInch.dll</HintPath>
+    </Reference>
     <Reference Include="PR5_DLL">
       <HintPath>..\PR5_DLL\bin\Debug\net6.0\PR5_DLL.dll</HintPath>
     </Reference>

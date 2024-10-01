@@ -23,6 +23,19 @@ namespace PR5_FORM
             }
         }
 
+        private void button2_Click(object sender, EventArgs e)
+        {
+            if (Double.TryParse(textBox2.Text, out double cm))
+            {
+                double inches = PR5_CmToInch.Convert.CentimetersToInches(cm);
+                label5.Text = inches.ToString();
+            }
+            else
+            {
+                MessageBox.Show("Ошибка преобразования");
+            }
+        }
+
         private void TransferFormDemo_Load(object sender, EventArgs e)
         {
         }
